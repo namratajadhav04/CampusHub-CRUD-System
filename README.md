@@ -35,7 +35,6 @@ Below are the major dependencies required to run the project:
 
 > ⚠️ Make sure all dependencies are installed via `npm install` in both `backend/` and `frontend/` folders.
 
----
 
 ## 🚀 How to Run This Project
 
@@ -60,7 +59,7 @@ Below are the major dependencies required to run the project:
    cd ../frontend
    cd myapp
    npm run dev
-   ```
+   
 
 * Frontend: `http://localhost:3000`
 * Backend: `http://localhost:5000`
@@ -68,9 +67,7 @@ Below are the major dependencies required to run the project:
 > Ensure MongoDB is running locally or use MongoDB Atlas and update your `MONGO_URI` in the `.env` file.
 
 
-
-
-###🧠 Conclusion
+## 🧠 Conclusion
 
 **CampusHub** is a simple yet effective full-stack CRUD application that can be extended for broader campus or student record management. Key highlights include:
 
@@ -79,6 +76,5 @@ Below are the major dependencies required to run the project:
 * 🧩 Modular and scalable codebase
 * 💡 Great for portfolio or learning full-stack development
 
----
 
 
